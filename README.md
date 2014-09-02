@@ -1,0 +1,1 @@
+We needed a way to balance the time spent on two customers' requests, without going into too much detail (eg: showing only the proportion of time spent on each customer, not the exact number of hours, nor who did what work).
